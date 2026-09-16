@@ -29,6 +29,7 @@
 15. [✨ Miscellaneous](#15-misc) (4 prompts)
 16. [📸 Portrait Photography](#16-portrait-photography) (50 prompts)
 17. [👗 Fashion Photography](#17-fashion-photography) (50 prompts)
+18. [✈️ Aviation & Safety Posters](#18-aviation-safety-posters) (1 prompt)
 
 ---
 
@@ -13799,6 +13800,93 @@ His reflection is visible beside him, complementing the modern urban backdrop of
 ```
 
 **Source:** [ராஜேஷ்](https://x.com/r4jjesh/status/2005353867379368346)
+
+---
+
+## 18. ✈️ Aviation & Safety Posters
+
+> 1 curated ChatGPT Image 2.0 & Nano Banana prompt for printable aviation safety reference posters.
+
+### 18.1. Airfield Quick Reference: Part 135 Runway & Wildlife Safety Poster
+
+![Airfield Quick Reference: Part 135 Runway & Wildlife Safety Poster](images/18-aviation-safety-posters/airfield-quick-reference.png)
+
+A clean, high-contrast A3 portrait safety poster for a Part 135 Day VFR bush-flying operator, split into two bordered panels—runway surface conditions on the left, wildlife incursion awareness on the right—each with a pilot checklist, a visually flagged "open item" callout for undocumented ground-staff duties, and a bottom band on mandatory-reportable thresholds. Designed for legibility at arm's length and after lamination, with sentence case throughout and no marketing tone.
+
+**Prompt:**
+
+```
+Design a printable A3 portrait safety poster titled "Airfield quick reference"
+for a Part 135 Day VFR bush-flying operator. Clean, high-contrast aviation
+safety style — 3D design, photorealism, gradients. Legible at arm's
+length and after lamination. Sentence case throughout, no marketing tone.
+
+LAYOUT: Two main columns side by side, each in its own bordered panel.
+
+HEADER (full width, top):
+"Airfield quick reference"
+Subtitle: "Runway surface conditions & wildlife incursion awareness —
+sourced from Wilderness Air Namibia FOM A/B, C210/C208 SOP,
+Wilderness Air Safety Aerodrome Information Booklet  and Wilderness Air Namibia SMS Manual "
+
+LEFT PANEL — icon: a simple runway/road icon
+Heading: "Runway surface conditions"
+
+Sub-heading "Pilots" with a checklist (checkmark icons):
+- Where the AIB flags a pilot runway inspection as recommended or required
+  for a strip, complete it .[AIB]
+- A runway is contaminated once 25% or more of its surface is covered by
+  water over 3 mm deep — landing distance must then be increased by 115%.
+  [FOM B]
+- If landing on a contaminated runway is unavoidable, keep the crosswind
+  component well below the normal dry-runway figure. [FOM B]
+- Every approach and landing is go-around oriented — stay primed to go
+  around at any stable stage if the profile isn't as expected.
+  [C210/C208 SOP]  (use a warning-triangle icon for this line)
+
+Sub-heading "Ground staff" — style this as a flagged/callout box, not a
+checklist:
+"The only documented ground-side control is the attendant's radio call
+stating the runway is open or closed. [C210 SOP] No condition-reporting,
+debris-clearance, or hazard-flagging duty is currently documented for
+ground staff — open item for the SMS."
+
+RIGHT PANEL — icon: a simple paw-print icon
+Heading: "Wildlife incursion awareness"
+
+Sub-heading "Pilots" with a checklist:
+- Animals in the vicinity of the airstrip are a named FORDEC threat factor
+  to weigh before every landing and takeoff. [C210/C208 SOP]
+- Wildlife or an aircraft on the runway is an explicit, standing go-around
+  trigger. [C210/C208 SOP]  (warning-triangle icon)
+- Several strips carry a company-mandated or recommended pilot runway
+  inspection specifically because of known wildlife or livestock activity —
+  check the AIB for the strip in use. [AIB]
+
+Sub-heading "Ground staff" — same style flagged/callout box:
+"Same gap as surface conditions — no documented sweeping, active-clearance,
+or pattern-reporting duty currently exists for ground staff."
+
+BOTTOM BAND (full width, below both panels):
+Heading: "Reporting thresholds"
+"Bird strikes and Animal
+runway incursions are mandatory-reportable regardless of severity. Broader hazard and occurrence reporting is strongly
+encouraged, though not mandatory at every threshold.
+[SMS Manual WA-SMS-002 6.19-6.20]"
+
+FOOTER (small text):
+"Reflects only what is currently documented in the FOM, SOPs, AIB, and SMS
+Manual."
+
+STYLE NOTES: Neutral/desaturated palette with one accent color for icons
+and headings (e.g. amber or teal). Warning-triangle lines should be
+visually distinct from checkmark lines (different icon, subtle tint).
+The two "ground staff" callout boxes should read as visibly flagged/
+incomplete, not as confident checklist items — use a muted warning tint,
+not the same green/neutral tone as the pilot checklists.
+```
+
+**Source:** Original design brief for this collection
 
 ---
 
